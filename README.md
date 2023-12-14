@@ -14,7 +14,7 @@ If youre getting any error regarding the database initialization run the below s
 
 <br><code>flask db init</code><br>
 
-<br><code>flask db migrate<code><br>
+<br><code>flask db migrate</code><br>
 
 <br><code>flask db upgrade</code><br>
 
@@ -22,6 +22,7 @@ If youre getting any error regarding the database initialization run the below s
 ## To test this api iam using postman and i am uploading a video for how to use this in postman 
 
 
-[pycharm64_QB3XMfmGWT.mp4](..%2F..%2FDocuments%2FShareX%2FScreenshots%2F2023-12%2Fpycharm64_QB3XMfmGWT.mp4)
+https://github.com/arun-arunisto/User-authentication-using-Flask-Restful-and-JWT/assets/86800553/566f85d3-f8fb-417c-bfde-0650e7c6a6d9
+
 
 if you guys have any doubts regarding postman or this app feel free to contact me!!
